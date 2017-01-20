@@ -14,5 +14,5 @@ Platform: LinuxOS
 ## 実行
 
 ```bash
-$ python postfix-monitor.py
+$ python mail-sending-monitor.py
 ```
